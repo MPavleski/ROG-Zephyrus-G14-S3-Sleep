@@ -4,6 +4,8 @@ After being fed-up with, constant crashes when sleeping using the default **s2id
 
 I think that in almost 100% of the crashes, the culprit was the **amdgpu** driver. Anyway, S3 now works and there are no more crashes sleeping.
 
+Tested and verified on my Asus ROG Zephyrus G14 GA402RK.
+
 Here are the instructions:
 
 1. Install ACPI tools:
