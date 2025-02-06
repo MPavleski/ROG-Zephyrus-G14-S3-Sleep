@@ -58,5 +58,5 @@ cat /sys/power/mem_sleep
 Should output:
 
 ```bash
-s2idle [deep]****
+s2idle [deep]
 ```
